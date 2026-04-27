@@ -1,16 +1,22 @@
-## Hi there 👋
+# <a href="https://kyoto.hu">KyotoIsNotReal</a> [![Website](https://img.shields.io/badge/kyoto.hu-up-green)](https://kyoto.hu) [![Website](https://img.shields.io/badge/kyoto.dev-up-green)](https://kyoto.dev)
 
-<!--
-**kyotoisnotreal/kyotoisnotreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 👋 こんにちは (Konnichiwa)! I'm **Kyoto**
+* 🗣️ **Languages:** HU / EN / JP
+* 💻 **Profession:** Backend & Full-Stack Dev
 
-Here are some ideas to get you started:
+### 📫 Get in touch:
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/401434272919191562)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![til](https://media.tenor.com/fgg9S7JLi8IAAAAi/chainsaw-man-anime-chainsaw-man-manga.gif)
+
+---
+
+## 🛠 Tools I use:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
