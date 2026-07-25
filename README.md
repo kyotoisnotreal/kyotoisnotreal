@@ -1,6 +1,6 @@
 # <a href="https://kyoto.hu">KyotoIsNotReal</a> [![Website](https://img.shields.io/badge/kyoto.hu-up-green)](https://kyoto.hu) [![Website](https://img.shields.io/badge/kyoto.dev-up-green)](https://kyoto.dev)
 
-* 👋 こんにちは (Konnichiwa)! I'm **Kyoto**
+* 👋 こんにちは! I'm **Kyoto**
 * 🗣️ **Languages:** HU / EN / JP
 * 💻 **Profession:** Backend & Full-Stack Dev
 
